@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    黑马
     <router-view />
   </div>
 </template>
